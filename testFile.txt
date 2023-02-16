@@ -1,0 +1,1 @@
+Student{firstName:John, lastName:Doe, age:27, id:7654321, isCommuter:false, gradYear:2023}
